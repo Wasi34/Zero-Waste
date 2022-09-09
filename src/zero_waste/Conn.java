@@ -7,8 +7,8 @@ public class Conn {
      private  Statement stmt = null;
     private Connection connection;
     
-        //Conncect to SQL Database
-    //localhost1433 sa,p@ssword13,ConcertMania
+     //Conncect to SQL Database
+    //localhost1433 username and password are: sa,p@ssword13
     public Connection connectToDB() throws ClassNotFoundException, SQLException{
         System.out.println("DB is connecting");
         Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
