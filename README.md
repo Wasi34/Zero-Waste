@@ -2,6 +2,8 @@
 Zero Waste is a desktop application which will help to create a better and easier way to communicate with NGOs / charity organizations.
 With the help of this software, people can donate food to help poor people.
 
+It's a 3rd year 2nd semester project.
+
 Features:
 Donor’s side-
 ○ Donors can register and log in.
