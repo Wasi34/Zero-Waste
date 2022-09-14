@@ -35,7 +35,7 @@ Developing Language and Framework :
 •	Java Swing
 •	MySQL Database
 
-Required technogies to run this Project:
+Required technologies to run this Project:
 1.Netbeans 8.2
 2.Microsoft SQL Server Management Studio 2008
 
