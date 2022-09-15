@@ -4,7 +4,7 @@ With the help of this software, people can donate food to help poor people.
 
 It's a 3rd year 2nd semester project.
 
-Features:
+# Features:
 Donor’s side-
 ○ Donors can register and log in.
 ○ They can search for events.
@@ -31,15 +31,15 @@ Volunteer’s side-
 ○ Update profile
 
 
-Developing Language and Framework : 
+# Developing Language and Framework  
 •	Java Swing
 •	MySQL Database
 
-Required technologies to run this Project:
+# Required Technologies 
 1.Netbeans 8.2
 2.Microsoft SQL Server Management Studio 2008
 
-Steps of how to run this project:-
+# How to Install & Use
 Step 1: Download the zip file. 
 Step 2: Execute the sql file in SQL server. 
 Step 3: Connect your database with netbeans. 
