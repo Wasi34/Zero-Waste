@@ -4,7 +4,7 @@ With the help of this software, people can donate food to help poor people.
 
 It's a 3rd year 2nd semester project.
 
-# Features:
+# Features
 Donor’s side-
 ○ Donors can register and log in.
 ○ They can search for events.
