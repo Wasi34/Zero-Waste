@@ -6,69 +6,41 @@ It's a 3rd year 2nd semester project.
 
 # Features
 
-Donor’s side-
+Donor’s side-<br/>
+○ Donors can register and log in.<br/>
+○ They can search for events.<br/>
+○ They can donate food to events.<br/>
+○ They can also update their profile.<br/>
+○ They can see all donation information.<br/>
+○ They can see all event lists.<br/>
+○ Donation to organization form.<br/>
 
-○ Donors can register and log in.
+Admin’s side-<br/>
+○ An admin can register and log in.<br/>
+○ They can create events.<br/>
+○ They can receive donations from users.<br/>
+○ View event donation.<br/>
+○ Check all volunteering requests.<br/>
+○ Add volunteer.<br/>
+○ View separate donation.<br/>
 
-○ They can search for events.
+Volunteer’s side-<br/>
+○ All volunteering information<br/>
+○ All event information<br/>
+○ Show profile information<br/>
+○ Application to volunteering form<br/>
+○ Update profile<br/>
 
-○ They can donate food to events.
-
-○ They can also update their profile.
-
-○ They can see all donation information.
-
-○ They can see all event lists.
-
-○ Donation to organization form.
-
-
-Admin’s side-
-
-○ An admin can register and log in.
-
-○ They can create events.
-
-○ They can receive donations from users.
-
-○ View event donation.
-
-○ Check all volunteering requests.
-
-○ Add volunteer.
-
-○ View separate donation.
-
-
-Volunteer’s side-
-
-○ All volunteering information
-
-○ All event information
-
-○ Show profile information
-
-○ Application to volunteering form
-
-○ Update profile
-
-
-
-# Developing Language and Framework  
-•	Java Swing
-
-•	MySQL Database
+# Developing Language and Framework 
+•	Java Swing<br/>
+•	MySQL Database<br/>
 
 # Required Technologies 
-1.Netbeans 8.2
-
-2.Microsoft SQL Server Management Studio 2008
+1.Netbeans 8.2<br/>
+2.Microsoft SQL Server Management Studio 2008<br/>
 
 # How to Install & Use
-Step 1: Download the zip file. 
-
-Step 2: Execute the sql file in SQL server. 
-
-Step 3: Connect your database with netbeans. 
-
-Step 4: Enjoy the project!
+Step 1: Download the zip file.<br/>
+Step 2: Execute the sql file in SQL server.<br/>
+Step 3: Connect your database with netbeans.<br/> 
+Step 4: Enjoy the project.
