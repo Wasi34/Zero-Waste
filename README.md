@@ -6,6 +6,7 @@ It's a 3rd year 2nd semester project.
 
 # Features
 Donor’s side-
+
 ○ Donors can register and log in.
 
 ○ They can search for events.
@@ -21,6 +22,7 @@ Donor’s side-
 ○ Donation to organization form.
 
 Admin’s side-
+
 ○ An admin can register and log in.
 
 ○ They can create events.
@@ -36,6 +38,7 @@ Admin’s side-
 ○ View separate donation.
 
 Volunteer’s side-
+
 ○ All volunteering information
 
 ○ All event information
