@@ -22,6 +22,7 @@ Donor’s side-
 ○ Donation to organization form.
 
 
+
 Admin’s side-
 
 ○ An admin can register and log in.
@@ -37,6 +38,7 @@ Admin’s side-
 ○ Add volunteer.
 
 ○ View separate donation.
+
 
 
 Volunteer’s side-
