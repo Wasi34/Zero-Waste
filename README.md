@@ -1,8 +1,8 @@
 # Zero-Waste
-Zero Waste is a desktop application which will help to create a better and easier way to communicate with NGOs / charity organizations.
+Zero Waste is a desktop application that will help to create a better and easier way to communicate with NGOs / charity organizations.
 With the help of this software, people can donate food to help poor people.
 
-It's a 3rd year 2nd semester project.
+It's a 3rd-year 2nd-semester project.
 
 # Features
 
@@ -22,7 +22,7 @@ Admin’s side-<br/>
 ○ View event donation.<br/>
 ○ Check all volunteering requests.<br/>
 ○ Add volunteer.<br/>
-○ View separate donation.<br/>
+○ View separate donations.<br/>
 
 Volunteer’s side-<br/>
 ○ All volunteering information<br/>
@@ -36,11 +36,11 @@ Volunteer’s side-<br/>
 •	MySQL Database<br/>
 
 # Required Technologies 
-1.Netbeans 8.2<br/>
-2.Microsoft SQL Server Management Studio 2008<br/>
+1. Netbeans 8.2<br/>
+2. Microsoft SQL Server Management Studio 2008<br/>
 
 # How to Install & Use
 Step 1: Download the zip file.<br/>
-Step 2: Execute the sql file in SQL server.<br/>
-Step 3: Connect your database with netbeans.<br/> 
+Step 2: Execute the SQL file in the SQL server.<br/>
+Step 3: Connect your database with NetBeans.<br/> 
 Step 4: Enjoy the project.
