@@ -5,8 +5,8 @@ With the help of this software, people can donate food to help poor people.
 It's a 3rd year 2nd semester project.
 
 # Features
+
 Donor’s side-
-----------------------------------
 
 ○ Donors can register and log in.
 
@@ -24,7 +24,7 @@ Donor’s side-
 
 
 Admin’s side-
-----------------------------------
+
 ○ An admin can register and log in.
 
 ○ They can create events.
@@ -41,7 +41,7 @@ Admin’s side-
 
 
 Volunteer’s side-
-----------------------------------
+
 ○ All volunteering information
 
 ○ All event information
